@@ -25,9 +25,9 @@
 3. Collaborate with teammates in real-time. Any changes made by one user will be immediately visible to others on the canvas. 
 
 ## Preview Images 🖼️
+![image](https://github.com/user-attachments/assets/2556caec-ae47-46a8-8487-ee780c0876c8)
+![image](https://github.com/user-attachments/assets/2c17543c-11fa-4ab3-a094-2b985c5a7128)
 
-![Preview 1](![image](https://github.com/user-attachments/assets/7b85adc7-4f4b-403d-a4af-47f8f435852b))
-![Preview 2](![image](https://github.com/user-attachments/assets/c0f4ea71-da22-44d9-877d-8c4472231fb3))
 
 ## License 📜
 
